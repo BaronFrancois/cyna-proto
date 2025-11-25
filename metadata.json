@@ -1,0 +1,7 @@
+{
+  "name": "Cyna Security",
+  "description": "Plateforme SaaS de cybersécurité B2B premium proposant des solutions avancées de détection des menaces avec une esthétique inspirée d'Apple.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
